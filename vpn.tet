@@ -12,23 +12,12 @@
 
 
 
-vless://0471f871-75a9-4e3a-8092-3e535cf41f80@158.160.168.74:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=2cfb5a0ae8ab0cb0#🇷🇺 37 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 8443
+    
 
 vless://055e3bd2-10f8-4d9c-8f7d-70b9f659e476@162.159.38.204:443?allowInsecure=1&encryption=none&host=x1.mwu.de5.net&path=/proxyip=sjc.o00o.ooo&security=tls&sni=x1.mwu.de5.net&type=ws#🇺🇸 42 - US - VLESS/WS/TLS - 443
 
 vless://055e3bd2-10f8-4d9c-8f7d-70b9f659e476@162.159.38.204:443?encryption=none&type=ws&security=tls&host=x1.mwu.de5.net&fp=random&sni=x1.mwu.de5.net#🇺🇸 43 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://055e3bd2-10f8-4d9c-8f7d-70b9f659e476@162.159.38.204:443?encryption=none&type=ws&security=tls&path=/proxyip=sjc.o00o.ooo&host=x1.mwu.de5.net&sni=x1.mwu.de5.net#🇺🇸 44 - US - VLESS/WS/TLS - 443
-
-vless://055e3bd2-10f8-4d9c-8f7d-70b9f659e476@194.164.35.159:2053?allowInsecure=1&encryption=none&host=x1.mwu.de5.net&path=/proxyip=sjc.o00o.ooo&security=tls&sni=x1.mwu.de5.net&type=ws#🇳🇱 45 - NL - VLESS/WS/TLS - 2053
-
-vless://064059ce-23b9-45d3-953d-57d4c5092874@104.18.32.47:443?encryption=none&type=ws&security=tls&path=/eyJqdW5rIjoieUVOZzhGTTh2OWdLcVYzRCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0&host=026.electrocellco-cf-026.workers.dev&sni=026.elEctrOCELLCo-cF-026.wORKERs.deV#🇺🇸 46 - US - VLESS/WS/TLS - 443
-
-vless://07440580-c04f-4025-a84d-e6ff1b140c74@104.16.250.22:443?encryption=none&type=ws&security=tls&path=/MY2026&host=openlist.ikun6.dpdns.org&sni=openlist.ikun6.dpdns.org#🇺🇸 48 - US - VLESS/WS/TLS - 443
-
-vless://07440580-c04f-4025-a84d-e6ff1b140c74@104.17.25.173:443?encryption=none&type=ws&security=tls&path=/MY2026&host=openlist.ikun6.dpdns.org&sni=openlist.ikun6.dpdns.org#🇺🇸 49 - US - VLESS/WS/TLS - 443
-
-vless://07440580-c04f-4025-a84d-e6ff1b140c74@104.18.185.26:443?encryption=none&type=ws&security=tls&path=/MY2026&host=openlist.ikun6.dpdns.org&sni=openlist.ikun6.dpdns.org#🇺🇸 50 - US - VLESS/WS/TLS - 443
 
 vless://07440580-c04f-4025-a84d-e6ff1b140c74@104.21.224.5:443?encryption=none&type=ws&security=tls&path=/MY2026&host=openlist.ikun6.dpdns.org&sni=openlist.ikun6.dpdns.org#🇺🇸 51 - US - VLESS/WS/TLS - 443
 
@@ -42,11 +31,7 @@ vless://07cd9dbe-21ac-4871-817d-c772687e4b7c@37.16.74.19:2053?flow=xtls-rprx-vis
 
 vless://081efe27-f6b8-4f60-aedb-3c9effe9c67d@162.159.152.17:443?allowInsecure=1&alpn=http/1.1&encryption=none&host=80bab3a2.gon-7ye.pages.dev&path=/&security=tls&sni=80bab3a2.gon-7ye.pages.dev&type=ws#🇺🇸 57 - US - VLESS/WS/TLS - 443
 
-vless://0808afe3-a9fe-4eda-91be-5ace2443b1c8@51.250.78.172:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=ok.ru&pbk=mYLhVolivlt9MUBBBc6Sn4t4ZS7SE8lCUIaaUkBLIkE&sid=b2a6e3d42f05c3d1&spx=/#🇷🇺 56 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 443
-
 vless://081efe27-f6b8-4f60-aedb-3c9effe9c67d@162.159.152.17:443?encryption=none&type=ws&security=tls&host=80bab3a2.gon-7ye.pages.dev&fp=chrome&sni=80bab3a2.gon-7ye.pages.dev&alpn=http/1.1#🇺🇸 58 - US - VLESS/WS/TLS/UTLS - 443
-
-vless://081efe27-f6b8-4f60-aedb-3c9effe9c67d@162.159.152.17:443?encryption=none&type=ws&security=tls&path=/&host=80bab3a2.gon-7ye.pages.dev&sni=80bab3a2.gon-7ye.pages.dev&alpn=http/1.1#🇺🇸 59 - US - VLESS/WS/TLS - 443
 
 vless://081efe27-f6b8-4f60-aedb-3c9effe9c67d@162.159.153.247:443?encryption=none&type=ws&security=tls&host=80bab3a2.gon-7ye.pages.dev&fp=chrome&sni=80bab3a2.gon-7ye.pages.dev&alpn=http/1.1#🇺🇸 60 - US - VLESS/WS/TLS/UTLS - 443
 
@@ -54,27 +39,9 @@ vless://081efe27-f6b8-4f60-aedb-3c9effe9c67d@162.159.153.247:443?encryption=none
 
 vless://081efe27-f6b8-4f60-aedb-3c9effe9c67d@poe.com:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=1&host=80bab3a2.gon-7ye.pages.dev&type=ws&allowInsecure=1&sni=80bab3a2.gon-7ye.pages.dev#🇺🇸 62 - US - VLESS/WS/TLS - 443
 
-vless://0833debf-4a9e-4c31-a5b7-a88574bddf18@104.18.32.47:443?allowInsecure=1&encryption=none&host=fancy-haze-01e3.ipv4-917.workers.dev&path=/&security=tls&sni=fancy-haze-01e3.ipv4-917.workers.dev&type=ws#🇺🇸 63 - US - VLESS/WS/TLS - 443
-
-vless://0833debf-4a9e-4c31-a5b7-a88574bddf18@104.18.32.47:443?encryption=none&type=ws&security=tls&path=/&host=fancy-haze-01e3.ipv4-917.workers.dev&fp=chrome&sni=fancy-haze-01e3.ipv4-917.workers.dev#🇺🇸 64 - US - VLESS/WS/TLS/UTLS - 443
-
-vless://0833debf-4a9e-4c31-a5b7-a88574bddf18@162.159.36.20:443?allowInsecure=1&encryption=none&host=fancy-haze-01e3.ipv4-917.workers.dev&path=/&security=tls&sni=fancy-haze-01e3.ipv4-917.workers.dev&type=ws#🇺🇸 65 - US - VLESS/WS/TLS - 443
-
-vless://0833debf-4a9e-4c31-a5b7-a88574bddf18@162.159.36.20:443?encryption=none&type=ws&security=tls&path=/&host=fancy-haze-01e3.ipv4-917.workers.dev&sni=fancy-haze-01e3.ipv4-917.workers.dev#🇺🇸 66 - US - VLESS/WS/TLS - 443
-
-vless://0833debf-4a9e-4c31-a5b7-a88574bddf18@172.64.155.209:443?allowInsecure=1&encryption=none&host=fancy-haze-01e3.ipv4-917.workers.dev&path=/&security=tls&sni=fancy-haze-01e3.ipv4-917.workers.dev&type=ws#🇺🇸 67 - US - VLESS/WS/TLS - 443
-
-vless://0833debf-4a9e-4c31-a5b7-a88574bddf18@172.64.155.209:443?encryption=none&type=ws&security=tls&path=/&host=fancy-haze-01e3.ipv4-917.workers.dev&fp=chrome&sni=fancy-haze-01e3.ipv4-917.workers.dev#🇺🇸 68 - US - VLESS/WS/TLS/UTLS - 443
-
-vless://0833debf-4a9e-4c31-a5b7-a88574bddf18@172.64.155.209:443?encryption=none&type=ws&security=tls&path=/&host=fancy-haze-01e3.ipv4-917.workers.dev&sni=fancy-haze-01e3.ipv4-917.workers.dev#🇺🇸 69 - US - VLESS/WS/TLS - 443
-
-vless://0833debf-4a9e-4c31-a5b7-a88574bddf18@saas.sin.fan:443?allowInsecure=1&encryption=none&host=fancy-haze-01e3.ipv4-917.workers.dev&path=/&security=tls&sni=fancy-haze-01e3.ipv4-917.workers.dev&type=ws#🇺🇸 70 - US - VLESS/WS/TLS - 443
-
 vless://09748875-9da3-440e-9809-9752e1dda1e4@38.244.137.198:443?encryption=none&type=tcp&security=reality&fp=chrome&sni=google.com&pbk=QXGsw1KqljvUiarkvFdBs3T1TeUQq4skwHFlsmbj31o&sid=365c07ed&spx=/#🇫🇮 73 - FI - VLESS/REALITY/PBK/SID/UTLS - 443
 
 vless://0b3e7958-e5c4-498f-ab21-b49686f95d2d@188.114.97.1:2053?encryption=none&type=ws&security=tls&host=bold-term-4edd.mbigspot.workers.dev&fp=chrome&sni=bold-term-4edd.mbigspot.workers.dev&alpn=h2,http/1.1#🇺🇸 76 - US - VLESS/WS/TLS/UTLS - 2053
-
-vless://0b792f43-fcfb-4a75-815d-9b8008f232e2@158.160.154.178:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=m.vk.com&pbk=IwwR1coHKPtOiCJFg-7Rr-IQyiu9qEJZa1LBp660KEw&sid=5920aeaf#🇷🇺 77 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 443
 
 vless://094d2a10-5bfe-4639-9e19-54de90d29fbf@51.250.67.33:8448?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=rutube.ru&pbk=Ox4BT0R5103EpplP2y6TIVv0VC-xBR2-YT6EJ4YmkUw&spx=/#🇷🇺 72 - RU - VLESS/REALITY/PBK/VISION/UTLS - 8448
 
